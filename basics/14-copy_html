@@ -1,2 +1,3 @@
 #!/bin/bash
-./copy_html
+./copy_htm:wq
+l
